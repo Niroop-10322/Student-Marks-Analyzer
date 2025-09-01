@@ -123,5 +123,5 @@ def main():
 
 if __name__ == "__main__":
     main()
-cd "d:\Cogniquest py\Student marks analyzer"
-git init
+
+
